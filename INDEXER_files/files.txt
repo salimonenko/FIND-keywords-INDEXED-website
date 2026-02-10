@@ -1,0 +1,11 @@
+\!Readme.txt|0
+\common_functions.php|1
+\file_FINDER.php|2
+\file_INDEXER.php|3
+\files.txt|4
+\finded_FILES.txt|5
+\keywords_FINDER.php|6
+\next_string.txt|7
+\parametrs.php|8
+\predlogi.txt|9
+\predlogi_DATA.txt|10
